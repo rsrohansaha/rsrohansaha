@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Transformer Models**
 
-- 👨‍💻 All of my projects are available at [rohansaha.in/projects.html](rohansaha.in/projects.html)
+- 👨‍💻 All of my projects are available at [rohansaha.in/projects/](rohansaha.in/projects/)
 
-- 📝 I regularly write articles on [blogs.rohansaha.in](blogs.rohansaha.in)
+- 📝 I regularly write articles on [blog.rohansaha.in](blog.rohansaha.in)
 
 - 📫 How to reach me **rohan.saha@outlook.in**
 
