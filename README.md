@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [blog.rohansaha.in](blog.rohansaha.in)
 
-- 📫 How to reach me **rohan.saha@outlook.in**
+- 📫 How to reach me **rsaha@outlook.in**
 
 - 📄 Know about my experiences [https://tinyurl.com/rohansaha-resume](https://tinyurl.com/rohansaha-resume)
 
