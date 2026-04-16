@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rsaha@outlook.in**
 
-- 📄 Know about my experiences [https://tinyurl.com/rohansaha-resume](https://tinyurl.com/rohansaha-resume)
+- 📄 Know about me [https://links.rohansaha.in/resume](https://links.rohansaha.in/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
